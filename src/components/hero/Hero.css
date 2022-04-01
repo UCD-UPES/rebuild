@@ -1,0 +1,44 @@
+.columns{
+    color:#f9f9f9;
+    height: fit-content;
+}
+.columns .column{
+    padding: 0;
+    height: 60;
+    padding: 2rem;
+}
+.left-panel{
+    background-color: #FED47E;
+    color: #FDFDFD;
+}
+.left-panel .cta-wrapper{
+    margin-top: 25%;
+}
+.left-panel a{
+    text-decoration: none;
+    color: #FDFDFD;
+}
+.left-panel #cta1{
+    background-color: #FDFDFD;
+    color:#16181D;
+    border-radius: 22px;
+    padding: 0.7% 3.5%;
+    margin-right: 5%;
+}
+.left-panel #cta2{
+    background: none;
+    border: 1px solid #FDFDFD;
+    padding: 0.7% 3.5%;
+    border-radius: 22px;
+}
+.right-panel{
+    background-color: #171717;
+    align-items: center;
+    text-align: center;
+    background-image: url("../../assets/BGPattern.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.right-panel img{
+    margin: 3rem auto;
+}
