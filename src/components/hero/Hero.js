@@ -13,10 +13,10 @@ export default function Hero() {
             </p>
             <br />
             <div class="cta-wrapper">
-              <a href="#" id="cta1">
+              <a href="/home" id="cta1">
                 Register Now
               </a>
-              <a href="#" id="cta2">
+              <a href="/home" id="cta2">
                 Join Community
               </a>
             </div>

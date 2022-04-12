@@ -1,5 +1,5 @@
 .columns{
-    color:#f9f9f9;
+    color:#363636;
     height: fit-content;
 }
 .columns .column{
@@ -9,14 +9,14 @@
 }
 .left-panel{
     background-color: #FED47E;
-    color: #FDFDFD;
+    color: #363636;
 }
 .left-panel .cta-wrapper{
     margin-top: 25%;
 }
 .left-panel a{
     text-decoration: none;
-    color: #FDFDFD;
+    color: #363636;
 }
 .left-panel #cta1{
     background-color: #FDFDFD;
